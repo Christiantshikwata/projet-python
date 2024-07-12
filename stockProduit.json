@@ -1,0 +1,14 @@
+[
+ {
+  "NumArticle": 1,
+  "prix": "215",
+  "qteArticle": "154",
+  "nomArt": "lolo"
+ },
+ {
+  "NumArticle": 2,
+  "prix": "300",
+  "qteArticle": "2",
+  "nomArt": "lecteur"
+ }
+]
