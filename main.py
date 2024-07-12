@@ -1,4 +1,4 @@
-from articles import*
+from articles import* # appel du fichier article.py avec toutes les fonctions qu'elle possède en utilisant *
 def menu_principal():
     print("1. Ajouter produit")
     print("2. Afficher produits")
@@ -47,4 +47,4 @@ def main():
             print("Choix invalide, veuillez réessayer.")
 
 main()
-#def
+
